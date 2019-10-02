@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yierephae.tokonina.nl/sitemap.xml
